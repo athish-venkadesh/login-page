@@ -1,0 +1,52 @@
+.full{
+    
+    margin-left: 150px;
+ }
+ 
+ 
+ .top{
+    display: flex;
+    height: 65px;
+    width: 950px;
+    background: linear-gradient(to bottom, #0000cc 0%, #99ccff 100%);
+ }
+ 
+ 
+ .top ul li{
+    display: inline-block;
+    padding-left: 100px;
+    list-style-type: none;
+ 
+    
+ }
+ 
+ .top ul li a{
+    text-decoration: none;
+    color: white;
+ }
+ .backimg{
+    height: 100vh;
+    width: 950px;
+    margin-top: 20px;
+    background:linear-gradient(#003366,#004d66);
+ }
+ .qwe img{
+    display: flex;
+    position: relative;
+    top: x;
+    bottom: 43px;
+    left: 52px;
+    height: 350px;
+    width: 731px;
+    border: 5px solid white;
+    margin-left: 50px;
+    
+ }
+ .an{
+    position: absolute;
+    left: 300px;
+    color: #ffff ;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 15px;
+    bottom:460px;
+ }
